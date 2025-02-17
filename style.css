@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+div.fullWidth {
+    width: 100%;
+}
+
+@media (orientation: portrait) {
+    
+}
+
+@media (orientation: landscape) {
+    
+}
